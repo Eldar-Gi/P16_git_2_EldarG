@@ -1,4 +1,4 @@
-c = 5
+c = int(input("Enter a value for c: "))
 if c > 2:
     print(f'Ciao Bella')
 elif c < 2:
