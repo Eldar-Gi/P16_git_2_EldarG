@@ -5,3 +5,4 @@ elif c < 2:
     print('Bella Ciao Bella Ciao')
 else:
     print("Bella Ciao Bella Ciao,Bella Ciao Bella Ciao',Bella Ciao Bella Ciao'")
+print('Kiek supratau kodas nelabai svarbus sitoje uzduotyje')
